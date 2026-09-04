@@ -5,6 +5,12 @@
 **Related Patent:** DOR-282
 **Title:** Brazilian Jiu-Jitsu Humanoid Robot Physical Action Control
 
+
+## White Paper
+
+- [PDF edition](docs/white-paper/DOR-282_Brazilian_Jiu-Jitsu_Robot_White_Paper.pdf) — browser-readable
+- [Word edition](docs/white-paper/DOR-282_Brazilian_Jiu-Jitsu_Robot_White_Paper.docx) — editable source
+
 ## 1. Abstract
 
 This RFC proposes an architecture for a humanoid robot capable of interactive Brazilian jiu-jitsu (BJJ) with a human or another humanoid robot.
